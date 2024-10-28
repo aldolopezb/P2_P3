@@ -1,4 +1,4 @@
-#Adivina quién con aprendizaje sin base de datos
+#Adivina quién con aprendizaje temporal sin base de datos
 
 animales = {
     "León": {"tipo_piel": "pelaje", "numero_patas": 4, "tamaño": "grande", "es_domestico": False, "vuela": False},
